@@ -1,4 +1,13 @@
 {
+	"name": "jagotronic/formation",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Sébastien Rodrigue",
+            "email": "sebastien@srodrigue.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
 		"silex/silex": "~1.2",
 		"doctrine/orm": "2.4.*",
